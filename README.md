@@ -6,7 +6,7 @@
 
 ## 🔧 Skills
 
-- **Programming Languages**: HTML/CSS, JavaScript/TypeScript
+- **Programming Languages**: HTML/CSS, JavaScript
 - **Frameworks & Libraries**: React.js, Tailwind CSS
 - **Tools & Platforms**: GitHub, Visual Studio Code
 - **Other Skills**: Figma
